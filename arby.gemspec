@@ -13,4 +13,5 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency "nilio"
   s.add_runtime_dependency "parser", ["~>2.2.0.pre7"]
+  s.add_runtime_dependency "rjb"
 end
